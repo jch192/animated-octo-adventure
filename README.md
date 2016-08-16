@@ -1,2 +1,4 @@
 # animated-octo-adventure
-My first repository.
+My first repo.
+
+Thanks for stopping by. 
